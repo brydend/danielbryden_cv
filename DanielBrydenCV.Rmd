@@ -1,0 +1,34 @@
+---
+title: "Daniel Bryden CV"
+author: "Daniel Bryden"
+date: "28/03/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Daniel is an experienced Business Analyst with a focus on insurance and broking. He has ten years of insurance change experience, strong analysis skills and broad technical and architectural knowledge. Daniel has worked through the full development lifecycle and agile methodologies. He is personable and settles quickly with a new team.
+Daniel has experience with Sequel Claims following an implementation with Willis Towers Watson. This resulted in a strong understanding of the workflow engine, Kanban, configuration possibilities and the underlying database.
+He stands out due to his excellent business-facing manner and detailed technical knowledge, and his ability to bridge the gap between to the two. Daniel’s documentation is well presented to a high standard and delivered quickly.
+Daniel always looks for the best solutions for his clients, works hard and does the right thing.
+
+# Experience
+
+## Marsh
+
+### Senior Analyst – Placement	December 2019 – current
+
+The role supported the Placement Data and MI during the integration of Marsh and JLT. Primary responsibilities were around the production of tender packs for facility renewals.
+The work supported improvements in the data processes, identifying and implementing rules to correctly assign risks to facilities through which they had been placed.
+
+#### Key Responsibilities
+
+*	Supporting the placement team to deliver reports
+*	Analysing risk/facility rules and defining requirements for the Data and MI team
+
+#### Key Achievements
+
+*	Production of facility tender packs
+*	Improved the reporting method, reducing calculations and time / risk for production
